@@ -1,2 +1,2 @@
 # curriculo-LigaDigital
- Curriculo feito com HTML e CSS para aula do curso
+ Curriculo feito em HTML e CSS para aula do curso
